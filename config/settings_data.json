@@ -19,9 +19,9 @@
     "type_base_family": "Google_Work+Sans_400_sans",
     "type_base_size": "16px",
     "type_bold_product_titles": false,
-    "share_facebook": true,
-    "share_twitter": true,
-    "share_pinterest": true,
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
     "sections": {
       "header": {
         "type": "header",
@@ -108,7 +108,7 @@
           "image_size": "medium",
           "show_quantity_selector": false,
           "show_variant_labels": true,
-          "show_vendor": false,
+          "show_vendor": true,
           "enable_zoom": true,
           "show_share_buttons": true
         }
@@ -122,7 +122,7 @@
     "blocks": {
       "733389323033596483": {
         "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/theme-settings\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "show_preview_data": true
         }
