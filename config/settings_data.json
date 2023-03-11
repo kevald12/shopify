@@ -34,7 +34,7 @@
           "message_text": "Announce something here",
           "message_link": "",
           "color_bg": "#7796a8",
-          "color_text": "#fff"
+          "color_text": "#ffffff"
         }
       },
       "hero": {
@@ -122,7 +122,7 @@
     "blocks": {
       "733389323033596483": {
         "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/theme-settings\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "show_preview_data": true
         }
