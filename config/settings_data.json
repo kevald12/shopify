@@ -117,7 +117,8 @@
         "type": "product-template",
         "custom_css": [
           "span.oke-w-ratingAverageModule-rating-average {background-color: red; color: white;}",
-          "span.oke-w-recommendsModule-value {background-color: red; color: white; font-size: 20px;}"
+          "span.oke-w-recommendsModule-value {background-color: red; color: white; font-size: 20px;}",
+          ".okeReviews[data-oke-container] .oke-w-mediaGridModule, div.okeReviews .oke-w-mediaGridModule {display: inline-block; width: 80%; vertical-align: bottom;}"
         ],
         "settings": {
           "image_size": "medium",
