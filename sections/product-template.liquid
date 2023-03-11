@@ -104,7 +104,7 @@
       <div class="product-single__meta">
 
         <h1 itemprop="name" class="product-single__title">{{ product.title }}</h1>
-
+         {% render 'okendo-reviews-product-rating-summary', product: product %}
         {% if section.settings.show_vendor %}
           <p itemprop="brand" class="product-single__vendor">{{ product.vendor }}</p>
         {% endif %}
